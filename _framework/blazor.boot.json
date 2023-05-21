@@ -7,7 +7,7 @@
   "linkerEnabled": true,
   "resources": {
     "assembly": {
-      "HDLifestyle.dll": "sha256-9MXTkK9WpX2lUnoRgHRiJyJ0aiQA0BWJrpVzZZgxE00=",
+      "HDLifestyle.dll": "sha256-gejqNYG3eqBmfcQOQpCsTOW70hBsV0PMCO8V\/6cZ5NU=",
       "Microsoft.AspNetCore.Components.dll": "sha256-3xjXQVaH03HFZb3BPPTfv5Zr\/c6JDev8DSUZpBFPRA8=",
       "Microsoft.AspNetCore.Components.Web.dll": "sha256-PSWW+AMMyYy6ceznG4JFR03IfHljgrVem561PnAjGp4=",
       "Microsoft.AspNetCore.Components.WebAssembly.dll": "sha256-IiCeDD2\/cESvpd281cmPUvaLlj5RlX\/Gy2c0FzTfcec=",

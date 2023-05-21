@@ -33,11 +33,11 @@
       "url": "_framework\/icudt.dat"
     },
     {
-      "hash": "sha256-EGr4KmWQ2B3RE6x5\/eJztjMqeaWUbjToLi7NWtOFUG4=",
+      "hash": "sha256-8mSw27XPEc2jOgIhfnSKM2WZeR+ci6Wcn3XKSuRpnAs=",
       "url": "_framework\/blazor.boot.json"
     },
     {
-      "hash": "sha256-9MXTkK9WpX2lUnoRgHRiJyJ0aiQA0BWJrpVzZZgxE00=",
+      "hash": "sha256-gejqNYG3eqBmfcQOQpCsTOW70hBsV0PMCO8V\/6cZ5NU=",
       "url": "_framework\/HDLifestyle.dll"
     },
     {
@@ -157,7 +157,7 @@
       "url": "404.html"
     },
     {
-      "hash": "sha256-10KEeWxsgry5D9LUZc0K86lpIg9RcWdyyBB5sXq6Ypk=",
+      "hash": "sha256-bc9czG7UxSjMfl2pbOHmdIXidKVbNypSKm5xF+Ul2vM=",
       "url": "css\/app.css"
     },
     {
@@ -167,6 +167,26 @@
     {
       "hash": "sha256-gBwg2tmA0Ci2u54gMF1jNCVku6vznarkLS6D76htNNQ=",
       "url": "css\/bootstrap\/bootstrap.min.css.map"
+    },
+    {
+      "hash": "sha256-6FRLj4EPiEK3Zf+\/yQ81H5moI7FxdT5Gxe06ONOZ++E=",
+      "url": "css\/images\/img-1.jpg"
+    },
+    {
+      "hash": "sha256-\/qPS3KqqKtOMxczcJ\/K7eKCsPIJYE6lxgeu0Gntsj80=",
+      "url": "css\/images\/img-2.jpg"
+    },
+    {
+      "hash": "sha256-pXMrY+zCWOExifOEz1m2eay0nZm4xpF3VJxpt1bmGy0=",
+      "url": "css\/images\/img-3.jpg"
+    },
+    {
+      "hash": "sha256-WGoT0Xqmaa2RdAE0EXRFysTJYSWg9Q4qLYolh4DS\/YI=",
+      "url": "css\/images\/img-4.jpg"
+    },
+    {
+      "hash": "sha256-EYL0G6RSGZOnsEXNEhO2ecDYsfOdmfojqvpxDY5sQSg=",
+      "url": "css\/images\/wave.mp4"
     },
     {
       "hash": "sha256-+Q44zfEaCMmXduni5Td+IgCbk8sSUQwES2nWs+KKQz0=",
@@ -217,8 +237,12 @@
       "url": "icon-512.png"
     },
     {
-      "hash": "sha256-2E86gKKnVFznyASPZ1PRer\/+YqIjrfTTy6V1UTUeUlI=",
+      "hash": "sha256-YVKS87iZ824qEMvwWezSS6zZlwXDGWjnvlahm5mWf8o=",
       "url": "index.html"
+    },
+    {
+      "hash": "sha256-FDJVjntMj4VFlb+gMOWO5zOa2LdV6q9IFrGqQs6opwk=",
+      "url": "js\/app.js"
     },
     {
       "hash": "sha256-uT3m5Qg5h1Q0ezWCcv1zyZRW\/QbxPXBugvqDmwU5AFA=",
@@ -229,5 +253,5 @@
       "url": "sample-data\/weather.json"
     }
   ],
-  "version": "TBNCcjpo"
+  "version": "33ZFM\/PZ"
 };
